@@ -1,0 +1,25 @@
+* {
+    margin: 5px;
+    padding: 0px;
+    box-sizing: content-box;
+}
+
+.container {
+    padding: 20px;
+    margin: auto;
+}
+
+input {
+    width: 20%;
+    border-radius: 5px;
+    padding: 7px;
+    border: 2px solid;
+    margin: 11px, 0px;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
